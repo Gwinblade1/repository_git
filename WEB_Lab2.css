@@ -1,0 +1,198 @@
+
+.MarginDiv
+{
+    position: relative;
+    top: 90px;
+    margin: 7%;
+    width: 65%;
+    background-color: #FFFFFF;
+}
+
+.Menu
+{
+    position: absolute;
+    top: 10%;
+    right: 10%;
+    left: 7%;
+    bottom: 80%;
+    background-color: black;
+    width: 90%;
+}
+
+.MenuCont
+{
+    position: absolute;
+    top: 10%;
+    right: 10%;
+    left: 7%;
+    bottom: 80%;
+    width: 90%;
+}
+
+#MenuTable
+{
+    width: 100%;
+}
+
+#MenuTr > td
+{
+    padding: 21px 21px;
+    width: auto;
+    border: 2px white;
+    align-content: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 14pt;
+    text-align: center;
+    
+}
+
+a
+{
+ color: white;
+ text-decoration: none;
+ transition: 0.5s linear;
+}
+
+a:hover
+{
+    color: #FF5600;
+}
+
+li
+{
+    margin-top: 10px;
+    font-size: 14pt;
+    font-family: Georgia, serif, serif;
+    color: #333333;
+}
+
+p
+{
+ font-size: 14pt;
+ font-family: Georgia, serif, serif;
+ color: #333333;
+}
+
+.MarginDiv > table 
+{
+ border-collapse: collapse;
+ border: 3px solid white;
+}
+
+.MarginDiv > table > th, td 
+{
+ border: 1px solid white;
+ padding: 8px 15px;
+ text-align: center;
+}
+
+#BackGrProff
+{
+    background-color: #ED002F;
+    width: 10%;
+    color: white;
+    border: 0px;
+}
+
+#BackGrEnth
+{
+    background-color: #F63E62;
+    width: 10%;
+    color: white;
+    border: 0px;
+}
+
+#BackGrEntry
+{
+    background-color: #F66F89;
+    width: 10%;
+    color: white;
+    border: 0px;
+}
+
+#ColorSup
+{
+    color: #ED002F;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12pt;
+}
+
+.ColorRowWhite > td
+{
+   background-color: silver;
+}
+
+#BackColorShimano
+{
+    background-color: #00A779;
+    color: white;
+    width: 45%;
+    padding: 20px 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18pt;
+    font-weight: 900;
+}
+
+#BackColorSram
+{
+    background-color: #ED002F;
+    color: white;
+    width: 45%;
+    padding: 20px 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18pt;
+    font-weight: 400;
+    font-style: oblique;
+}
+
+.StyleShimano
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    font-style: oblique;
+    font-size: 17pt;
+}
+
+.StyleSram
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 17pt;
+    font-weight: 500;
+    font-stretch: ultra-condensed;
+}
+
+#DivFixed
+{
+    position: fixed;
+    top: 20%;
+    left: 70%;
+    right: 10%;
+    bottom: 0px;
+    width: 28%;
+}
+
+.Img
+{
+    position: relative;
+    left: 110px;
+}
+
+#Rekl
+{
+    position: relative;
+    font-size: 20pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    top: 0px;
+    left: 90px;
+}
+
+#Rekl1
+{
+    position: relative;
+    font-size: 20pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    top: 0px;
+    left: 50px;
+}

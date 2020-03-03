@@ -1,0 +1,12 @@
+F:\Робочий стіл\IT-Academy\Data Base\5m\Lab5DB\bin\Debug\Lab5DB.exe.config
+F:\Робочий стіл\IT-Academy\Data Base\5m\Lab5DB\bin\Debug\Lab5DB.exe
+F:\Робочий стіл\IT-Academy\Data Base\5m\Lab5DB\bin\Debug\Lab5DB.pdb
+F:\Робочий стіл\IT-Academy\Data Base\5m\Lab5DB\obj\Debug\Lab5DB.csprojAssemblyReference.cache
+F:\Робочий стіл\IT-Academy\Data Base\5m\Lab5DB\obj\Debug\Lab5DB.Form1.resources
+F:\Робочий стіл\IT-Academy\Data Base\5m\Lab5DB\obj\Debug\Lab5DB.Properties.Resources.resources
+F:\Робочий стіл\IT-Academy\Data Base\5m\Lab5DB\obj\Debug\Lab5DB.csproj.GenerateResource.cache
+F:\Робочий стіл\IT-Academy\Data Base\5m\Lab5DB\obj\Debug\Lab5DB.csproj.CoreCompileInputs.cache
+F:\Робочий стіл\IT-Academy\Data Base\5m\Lab5DB\obj\Debug\Lab5DB.exe
+F:\Робочий стіл\IT-Academy\Data Base\5m\Lab5DB\obj\Debug\Lab5DB.pdb
+F:\Робочий стіл\IT-Academy\Data Base\5m\Lab5DB\obj\Debug\Lab5DB.Form2.resources
+F:\Робочий стіл\IT-Academy\Data Base\5m\Lab5DB\obj\Debug\Lab5DB.Form3.resources
